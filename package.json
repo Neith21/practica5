@@ -1,6 +1,6 @@
 {
   "name": "practica_5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
@@ -23,6 +23,6 @@
     "publish": {
       "provider": "github",
       "owner": "Neith21",
-      "repo": "Mi-Reproductor-de-M-sica"
+      "repo": "practica5"
 }}
 }
